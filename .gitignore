@@ -1,0 +1,7 @@
+CW_Dataset/
+Models/
+*.joblib
+*.h5
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
